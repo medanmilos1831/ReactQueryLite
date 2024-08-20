@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "react-router-dom": "^6.21.3",
+    "antd": "^5.13.3",
+    "axios": "^1.6.7"
   },
   "devDependencies": {
     "@babel/core": "^7.14.5",
